@@ -4,7 +4,7 @@ tools mencari page login admin.
 Langkah-langkah untuk menginstal dan menjalankan tools ini.
 
    ```
-   git clone https://github.com/anggre/adminfinder
+   git clone https://github.com/anggree/adminfinder
 
 ```
 ```
